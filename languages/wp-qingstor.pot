@@ -1,0 +1,138 @@
+# Copyright (C) 2019 WP-QingStor
+# This file is distributed under the same license as the WP-QingStor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-QingStor 0.1.0\n"
+"POT-Creation-Date: 2019-07-17 14:27:19+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: php/qingstor-functions.php:34
+msgid "Incorrect Bucket Settings."
+msgstr ""
+
+#: php/qingstor-functions.php:37
+msgid "QingStor server error, please wait."
+msgstr ""
+
+#: php/qingstor-functions.php:40
+msgid "WordPress directory is not readable."
+msgstr ""
+
+#: php/qingstor-functions.php:43
+msgid "wp-content directory is not writable."
+msgstr ""
+
+#: php/qingstor-functions.php:52
+msgid "Invalid Bucket URL."
+msgstr ""
+
+#: php/qingstor-functions.php:69
+msgid "Settings saved."
+msgstr ""
+
+#: php/qingstor-functions.php:71
+msgid "Background task start."
+msgstr ""
+
+#: php/qingstor-setting-page.php:2
+msgid "QingStor Settings"
+msgstr ""
+
+#: php/qingstor-setting-page.php:4
+msgid "Bucket Settings"
+msgstr ""
+
+#: php/qingstor-setting-page.php:5
+msgid "Upload Settings"
+msgstr ""
+
+#: php/qingstor-setting-page.php:20
+msgid "The following items need to be created at "
+msgstr ""
+
+#: php/qingstor-setting-page.php:20
+msgid "QingCloud Console"
+msgstr ""
+
+#: php/qingstor-setting-page.php:20
+msgid "."
+msgstr ""
+
+#: php/qingstor-setting-page.php:41
+msgid "Name"
+msgstr ""
+
+#: php/qingstor-setting-page.php:50
+msgid "Automaticlly Set Policy"
+msgstr ""
+
+#: php/qingstor-setting-page.php:53
+msgid ""
+"(Will set Acl as public read. If not necessary, do not change it.)"
+msgstr ""
+
+#: php/qingstor-setting-page.php:60
+msgid "Operations"
+msgstr ""
+
+#: php/qingstor-setting-page.php:61
+msgid "Sync wp-content/uploads/ to Bucket"
+msgstr ""
+
+#: php/qingstor-setting-page.php:62
+msgid "Settings"
+msgstr ""
+
+#: php/qingstor-setting-page.php:68
+msgid "File Types"
+msgstr ""
+
+#: php/qingstor-setting-page.php:72
+msgid "File suffixes to upload."
+msgstr ""
+
+#: php/qingstor-setting-page.php:77
+msgid "Upload Prefix"
+msgstr ""
+
+#: php/qingstor-setting-page.php:81
+msgid "Media Files will be uploaded to the directory."
+msgstr ""
+
+#: php/qingstor-setting-page.php:90
+msgid ""
+"Bucket URL. If there is a CDN, please fill in according to the actual "
+"situation. (Should add http:// or https://)"
+msgstr ""
+
+#: php/qingstor-setting-page.php:114
+msgid "Save Changes"
+msgstr ""
+
+#: qingstor.php:39
+msgid ""
+"<p>WP Cron is disabled and is required by <strong>WP-QingStor</strong>. "
+"Please define DISABLE_WP_CRON as false in wp-config.php.</p>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP-QingStor"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/maydusa/wp-qingstor"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"QingStor Plugin for WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "maydusa"
+msgstr ""
